@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Zone 1",
+    "price": 5,
+    "rating": 4.2,
+    "spots": 20,
+    "free": 9,
+    "address": "123 Main St NW",
+    "image": "https://cheapparkingcalgary.com/wp-content/uploads/2015/04/Lot-214-114-2StreetSW.jpg",
+    "coordinate": {
+      "latitude": 51.04731,
+      "longitude": -114.067968
+    }
+  },
+  {
+    "id": 2,
+    "title": "Zone 2",
+    "price": 7,
+    "rating": 3.8,
+    "spots": 25,
+    "free": 12,
+    "address": "352 10 St SW",
+    "image": "https://www.calgarytransit.com/content/transit/en/home/park-and-ride/_jcr_content/root/responsivegrid/responsivegrid/image.img.jpg/1614755512234.jpg",
+    "coordinate": {
+      "latitude": 51.03731,
+      "longitude": -114.067968
+    }
+  },
+  {
+    "id": 3,
+    "title": "Zone 3",
+    "price": 3,
+    "rating": 4.7,
+    "spots": 50,
+    "free": 20,
+    "address": "408 2 AVE NW",
+    "image": "https://s3.eu-central-1.amazonaws.com/uberall-userpics-prod/3267139/s7qiqzLIhn.jpeg",
+    "coordinate": {
+      "latitude": 51.04081,
+      "longitude": -114.066968
+    }
+  },
+  {
+    "id": 4,
+    "title": "Zone 4",
+    "price": 15,
+    "rating": 4.6,
+    "spots": 60,
+    "free": 30,
+    "address": "42 17 Ave SW",
+    "image": "https://www.pcl.com/content/dam/pcl-projects/project-main-photos/Calgary%20Parking%20Authority%20Impound%20MAIN.jpg",
+    "coordinate": {
+      "latitude": 51.05081,
+      "longitude": -114.070968
+    }
+  },
+  {
+    "id": 5,
+    "title": "Zone 5",
+    "price": 12,
+    "rating": 4.9,
+    "spots": 100,
+    "free": 10,
+    "address": "24 10 St",
+    "image": "https://taurusgroup.com/wp-content/uploads/2021/09/Bow-Parkade-1-1024x640.jpg",
+    "coordinate": {
+      "latitude": 51.06081,
+      "longitude": -114.062968
+    }
+  }
+]
